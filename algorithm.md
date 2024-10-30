@@ -23,7 +23,7 @@ Parameters: None
 Return: Number user inputs as an integer  
 Algorithm:
 1. Prompt the user to input the number of dice rolls they want
-2. If roll amount is not a digit
+2. While roll amount is not a digit
    1. Output that the input was invalid and prompt the user to input a digit
 3. Convert the number of rolls to an integer
 
