@@ -1,4 +1,11 @@
-# Intro comments
+# Programmers: Paige and Cooper
+# Course:  CS151, Dr. Zelalem Jembre Yalew
+# Due Date: 11/06/24
+# Lab Assignment: Lab08
+# Problem Statement: A program to display the distribution of rolls of two dice
+# Data In: How many times the dice are rolled
+# Data Out: List of the sum of the dice when rolled and chart of the distribution of rolls
+
 
 # PLACEHOLDER FOR PRINTING LIST
 # print(list[2]*'*')
@@ -15,10 +22,11 @@ sum = 0
 # Return: Number user inputs as an integer
 def roll_amount():
     num_roll = input("How many times do you want to roll the dice? ")
-    while not num_roll.isdigit():
+    while not num_roll.isdigit(): #to make sure the user enters a valid value
         print("Please enter a valid number.")
         num_roll = input("How many times do you want to roll the dice? ")
     num_roll = int(num_roll)
+    print(f'Rolling {num_roll} pairs of dice.')
     return num_roll
 
 
@@ -43,7 +51,6 @@ def add_to_list(sum):
 # Parameters: None
 # Return: None
 def print_list():
-    print(f'Rolling {num_roll} pairs of dice.')
     print(sum_list)
     count_list = 0
     total = 10
@@ -56,7 +63,7 @@ def print_list():
 # Parameters: None
 # Return: None
 def main():
-    print('Enter purpose here')
+    print('This program displays the distribution of rolls from two dice')
     num_roll = roll_amount()
     count = 0
     while count < num_roll:
