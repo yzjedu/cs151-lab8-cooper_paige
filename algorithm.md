@@ -16,6 +16,7 @@ Algorithm:
 2. While roll amount is not a digit
    1. Output that the input was invalid and prompt the user to input a digit
 3. Convert the number of rolls to an integer
+4. Output roll amount
 
 
 Purpose: Get a value for the roll of the dice  
@@ -40,12 +41,11 @@ Purpose: Print the list
 Name: print_list  
 Parameters: None  
 Return: None  
-Algorithm:   
-1. Output roll amount
-2. Output the list
-3. Set count equal to 2
-4. Set total to 12
-5. While count is less than total:
+Algorithm:
+1. Output the list
+2. Set count equal to 2
+3. Set total to 12
+4. While count is less than total:
    1. Output the sum and its corresponding index
    2. Add 1 to count
 
