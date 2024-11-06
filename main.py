@@ -64,7 +64,7 @@ def main():
     count = 0
     while count < num_roll:
         sum = roll_dice()
-        add_to_list(sum) # Adds one space in the spot of the sum in the list
+        add_to_list(sum) # Adds one mark in the spot of the sum in the list
         count += 1
     print_list() # Prints the list
 
