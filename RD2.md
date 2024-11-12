@@ -1,15 +1,14 @@
-ENCRYPTED:
-# Fstzsqhwcb Rcqiasbh
+# Reflection Document
 
-* Rfwjs Tizz Boas: Qccdsf Bonof
-* Dofhbsf Tizz Boas: Dowus Fcbob
-* Ghirsbh WR: 001930106
+* Drive Full Name: Cooper Nazar
+* Partner Full Name: Paige Ronan
+* Student ID: 001930106
 
-Hvs aowb difdcgs ct hvwg zop kog hc uwjs ig dfoqhwqs kwhv zwghg, tibqhwcbg, zccdg, obr fobrca biapsfg. Ks hccy qsfhowb 
-dfcqsggsg hvoh bssrsr hc ps rcbs tcf hvs dfcpzsa obr hifbsr hvsa wbhc tibqhwcbg hc aoys hvs qcrs acfs fsoropzs. Hvs aowb 
-dfcpzsa W toqsr kog twuifwbu cih vck hc dih am wrsog wbhc hvs ozucfwhva obr wbhc hvs qcrs giqqsggtizzm. Sjsbhiozzm, kwhv 
-am dofhbsf'g vszd, ks ksfs opzs hc giqqsggtizzm kfwhs cih hvs wrsog ks vor. Kvwzs qvsqywbu hvs qcrs, ks sbqcibhsfsr ob 
-sffcf hvoh ks ghfiuuzsr kwhv tcf acfs hvob twjs awbihsg cbzm hc fsozwns hvoh wh kog hvs fsgizh ct tcfushhwbu o gwbuzs 
-zwbs ct qcrs, gc ks vor gcas tib kwhv hvoh fsozwnohwcb. Cjsfozz, kcfywbu kwhv am dofhbsf kog o ufsoh sldsfwsbqs, kwhv o 
-zch ct viacf wbjczjsr, obr gvs kog jsfm dohwsbh kvsb W kcffwsr hcc aiqv opcih vck hc kfwhs hvs ozucfwhva. Wh kog o uccr 
-sldsfwsbqs.
+The main purpose of this lab was to give us practice with lists, functions, loops, and random numbers. We took certain 
+processes that needed to be done for the problem and turned them into functions to make the code more readable. The main 
+problem I faced was figuring out how to put my ideas into the algorithm and into the code successfully. Eventually, with 
+my partner's help, we were able to successfully write out the ideas we had. While checking the code, we encountered an 
+error that we struggled with for more than five minutes only to realize that it was the result of forgetting a single 
+line of code, so we had some fun with that realization. Overall, working with my partner was a great experience, with a 
+lot of humor involved, and she was very patient when I worried too much about how to write the algorithm. It was a good 
+experience.

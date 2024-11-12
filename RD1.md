@@ -1,15 +1,14 @@
-ENCRYPTED:
-# Mzagzxodji Yjxphzio
+# Reflection Document
 
-* Ymdqz Apgg Ivhz  : Vgomk Xutgt
-* Kvmoizm Apgg Ivhz: Iuuvkx Tgfgx
-* Nopyzio DY: 1911097
+* Drive Full Name  : Altrp Czyly
+* Partner Full Name: Nzzapc Ylklc
+* Student ID: 1911097
 
-Ot znoy rgh ck vxgizoikj ayotm latizouty zu sgqk znk iujk suxk klloioktz gtj kgyokx zu xkgj. Gz loxyz znk gyyomsktz
-xkgrre iutlaykj sk gtj O jojt'z qtuc nuc zu yurbk oz. Haz, glzkx sgvvotm uaz znk grmuxozns gtj yvrozzotm oz av otzu znk 
-jollkxktz latizouty oz sgjk oz kgyokx. Glzkx cxozotm grr znk iujk O cgy yaxvxoykj cnkt ck utre ngj utk vxuhrks cnoin cgy
-tuz gjjotm 1 zu iuatz ot znk vxotz royz latizouty yu ngj gt kxxux. Haz, glzkx ck lodkj oz, oz cuxqkj gtj oz jojt'z zgqk 
-zuu sain zosk. Ck yvktz znk suyz zosk zxeotm zu lomaxk uaz nuc zu iujk oz gtj cngz yzkvy mu otzu znk latizouty gtj nuc 
-znke iushotk ot znk sgot zu xat znk vxumxgs iuxxkizre. Iuuvkx gtj O cuxqkj ckrr zumkznkx, gtj ck cuxqkj uayojk ul irgyy 
-zumkznkx.
+Ty estd wlm hp aclnetnpo fdtyr qfynetzyd ez xlvp esp nzop xzcp pqqtntpye lyo pldtpc ez cplo. Le qtcde esp lddtrxpye
+cplwwj nzyqfdpo xp lyo T otoy'e vyzh szh ez dzwgp te. Mfe, lqepc xlaatyr zfe esp lwrzctesx lyo dawteetyr te fa tyez esp 
+otqqpcpye qfynetzyd te xlop te pldtpc. Lqepc hctetyr lww esp nzop T hld dfcactdpo hspy hp zywj slo zyp aczmwpx hstns hld
+yze lootyr 1 ez nzfye ty esp actye wtde qfynetzyd dz slo ly pcczc. Mfe, lqepc hp qtipo te, te hzcvpo lyo te otoy'e elvp 
+ezz xfns etxp. Hp dapye esp xzde etxp ecjtyr ez qtrfcp zfe szh ez nzop te lyo hsle depad rz tyez esp qfynetzyd lyo szh 
+espj nzxmtyp ty esp xlty ez cfy esp aczrclx nzccpnewj. Nzzapc lyo T hzcvpo hpww ezrpespc, lyo hp hzcvpo zfdtop zq nwldd 
+ezrpespc.
 

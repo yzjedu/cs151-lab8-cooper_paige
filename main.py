@@ -51,7 +51,7 @@ def print_list():
     count_list = 0
     total = 10
     while count_list <= total:
-        print(f'Sum of {count_list + 2:02}: {sum_list[count_list + 2]*'*'}') # Prints the sum number and a mark for each time it was rolled
+        print(f"Sum of {count_list + 2:02}: {sum_list[count_list + 2]*'*'}") # Prints the sum number and a mark for each time it was rolled
         count_list += 1
 
 
